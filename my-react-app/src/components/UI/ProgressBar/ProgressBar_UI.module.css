@@ -1,0 +1,14 @@
+.ProgressBar{
+    width: 516px;
+    height: 20px;
+    
+    background-color: #F5F6F7;
+    
+    border-radius: 12px;
+}
+.ProgressBar_progression{
+    background-color: blue;
+    height: 100%;
+
+    border-radius: 12px;
+}

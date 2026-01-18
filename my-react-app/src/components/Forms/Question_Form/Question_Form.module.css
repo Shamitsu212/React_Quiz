@@ -1,0 +1,13 @@
+.Form{
+    padding: 22px;
+    border-radius: 16px;
+    background-color: white;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.4);
+
+    min-width: 564px;
+    min-height: 350px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
