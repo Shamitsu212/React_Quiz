@@ -15,3 +15,9 @@
 
 
 ---
+
+## 🖼️ Превью макетов
+
+Cсылка - https://shamitsu212.github.io/React_Quiz
+
+---
